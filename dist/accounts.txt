@@ -1,0 +1,3 @@
+- name: moustafa, password: Mousta123
+- name: yousef, password: Joe123
+- name: lily, password: Lily123
